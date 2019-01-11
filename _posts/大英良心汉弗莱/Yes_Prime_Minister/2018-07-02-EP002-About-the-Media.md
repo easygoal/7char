@@ -4,6 +4,7 @@ category: YPM
 tagline: "媒体本身"
 keywords: sitcom
 tags: ["大英良心汉弗莱"]
+date: 2018-07-02
 header:
 lang: zh_CN 
 title: Yes, Prime Minister (Episode 002)
